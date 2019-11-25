@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.268,C:\Users\mpyrev\Documents\GitHub\OOP_lesson_5\fatClass.h=C:\Users\mpyrev\Documents\GitHub\OOP_lesson_5\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,=H:\OOP_lesson_5\iteratorDecoratorClass.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\Егор\Downloads\HW6\FSPCH1.h=C:\Users\Егор\Downloads\HW6\Project_lowLevelAccess_PCH.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.527,=C:\Users\mpyrev\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,=H:\OOP_lesson_5\iteratorDecoratorClass.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\Users\mpyrev\Documents\GitHub\OOP_lesson_5\fatClass.cpp=C:\Users\mpyrev\Documents\GitHub\OOP_lesson_5\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.048,C:\Users\mpyrev\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\mpyrev\Documents\GitHub\OOP_lesson_5\Project_lowLevelAccess.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,C:\Users\Егор\Downloads\HW6\fsAccess.cpp=C:\Users\Егор\Downloads\HW6\lowLevelAccess.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,C:\Users\Егор\Downloads\HW6\decoratorClass.h=C:\Users\Егор\Downloads\HW6\iteratorDecoratorClass.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,C:\Users\Егор\Downloads\HW6\FS.cbproj=C:\Users\Егор\Downloads\HW6\Project_lowLevelAccess.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,C:\Users\Егор\Downloads\HW6\decoratorClass.cpp=C:\Users\Егор\Downloads\HW6\iteratorDecoratorClass.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.889,=C:\Users\mpyrev\Documents\GitHub\OOP_lesson_5\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,C:\Users\mpyrev\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\mpyrev\Documents\GitHub\OOP_lesson_5\Project_lowLevelAccess_PCH.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.764,=C:\Users\mpyrev\Documents\GitHub\OOP_lesson_5\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.933,=C:\Users\mpyrev\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.449,C:\Users\mpyrev\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\mpyrev\Documents\GitHub\OOP_lesson_5\lowLevelAccess.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
